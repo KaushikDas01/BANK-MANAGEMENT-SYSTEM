@@ -1,4 +1,7 @@
 # BANK-MANAGEMENT-SYSTEM
+
+**OPEN .EXE FILE TO LAUNCH THE PROGRAM**
+
  java based bank management system
  Every frame is created using JFrame and uses Java Swing and awt and a external calender is added 
 
@@ -24,3 +27,7 @@ because it'll saved in database and without proper authentication no one can acc
 14. pin change-  if you forget your pin you can generate your new pin here.
 
 **if you press exit whole page will be closed and you have to again entered through login page**
+
+
+
+**THANK YOU**
